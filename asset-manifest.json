@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.518121b0.chunk.css",
-    "main.js": "/static/js/main.f2325810.chunk.js",
-    "main.js.map": "/static/js/main.f2325810.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b9e03811.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b9e03811.js.map",
-    "static/js/2.8052bcdb.chunk.js": "/static/js/2.8052bcdb.chunk.js",
-    "static/js/2.8052bcdb.chunk.js.map": "/static/js/2.8052bcdb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.518121b0.chunk.css.map": "/static/css/main.518121b0.chunk.css.map",
-    "static/js/2.8052bcdb.chunk.js.LICENSE.txt": "/static/js/2.8052bcdb.chunk.js.LICENSE.txt",
-    "static/media/game.css": "/static/media/fb-game-background.b797601e.png"
+    "main.css": "/flappy-bird-react/static/css/main.7f3a4361.chunk.css",
+    "main.js": "/flappy-bird-react/static/js/main.f2325810.chunk.js",
+    "main.js.map": "/flappy-bird-react/static/js/main.f2325810.chunk.js.map",
+    "runtime-main.js": "/flappy-bird-react/static/js/runtime-main.d2172510.js",
+    "runtime-main.js.map": "/flappy-bird-react/static/js/runtime-main.d2172510.js.map",
+    "static/js/2.8052bcdb.chunk.js": "/flappy-bird-react/static/js/2.8052bcdb.chunk.js",
+    "static/js/2.8052bcdb.chunk.js.map": "/flappy-bird-react/static/js/2.8052bcdb.chunk.js.map",
+    "index.html": "/flappy-bird-react/index.html",
+    "static/css/main.7f3a4361.chunk.css.map": "/flappy-bird-react/static/css/main.7f3a4361.chunk.css.map",
+    "static/js/2.8052bcdb.chunk.js.LICENSE.txt": "/flappy-bird-react/static/js/2.8052bcdb.chunk.js.LICENSE.txt",
+    "static/media/game.css": "/flappy-bird-react/static/media/fb-game-background.b797601e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9e03811.js",
+    "static/js/runtime-main.d2172510.js",
     "static/js/2.8052bcdb.chunk.js",
-    "static/css/main.518121b0.chunk.css",
+    "static/css/main.7f3a4361.chunk.css",
     "static/js/main.f2325810.chunk.js"
   ]
 }
